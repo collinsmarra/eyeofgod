@@ -1,0 +1,24 @@
+"""
+movement versions
+movement 1.0
+movement 1.1
+movement 1.2
+movement 1.3
+expected problems:
+i) Unstable camera, stationary elements in the frame are flagged as moving 
+
+working libraries:
+i) cv2
+ii) numpy
+iii) sympy
+iv) urllib
+v) requests
+vi) Folio
+vi) Mapbox
+vii) sockets
+
+
+
+"""
+
+
